@@ -11,3 +11,9 @@ D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码
 D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码编写教程\ModMain\bin\Release\ModMain.dll
 D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码编写教程\ModMain\bin\Release\ModMain.pdb
 D:\guigubahuang\guigubahuang\kaifaban\immortal_code\GameClient\Mod\modFQA\代码编写教程\ModMain\bin\Release\ModMain.xml
+D:\Project\鬼谷八荒mod\ModProject_aWVIMC\ModProject\ModCode\ModMain\bin\Release\MOD_aWVIMC.dll
+D:\Project\鬼谷八荒mod\ModProject_aWVIMC\ModProject\ModCode\ModMain\bin\Release\MOD_aWVIMC.pdb
+D:\Project\鬼谷八荒mod\ModProject_aWVIMC\ModProject\ModCode\ModMain\obj\Release\ModMain.csproj.AssemblyReference.cache
+D:\Project\鬼谷八荒mod\ModProject_aWVIMC\ModProject\ModCode\ModMain\obj\Release\ModMain.csproj.CoreCompileInputs.cache
+D:\Project\鬼谷八荒mod\ModProject_aWVIMC\ModProject\ModCode\ModMain\obj\Release\MOD_aWVIMC.dll
+D:\Project\鬼谷八荒mod\ModProject_aWVIMC\ModProject\ModCode\ModMain\obj\Release\MOD_aWVIMC.pdb

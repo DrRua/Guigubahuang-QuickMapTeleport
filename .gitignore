@@ -1,0 +1,238 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+/Build/
+/Target/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.ncb
+*.ilk
+*.exp
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sap
+*.tlh
+*.tlh
+*.tli
+*.tlog
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.lib
+*.msil
+*.main
+*.tlh
+*.tlh
+*.cpp
+*.dll
+*.exe
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+*.nuget.props
+*.nuget.targets
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+# Uncomment if you have task runner generating logs
+#TaskRunnerBin/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.lib
+*.msil
+*.sbr
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.dll
+*.exe
+*.pdb
+*.pgd
+*.rsp
+*.sap
+*.vsix
+*.vsixmanifest
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!*.[Cc]ache/
+
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.settings
+*.SCC
+*.snk
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Guidance Automation
+*.gpState
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JustCode
+.JustCode
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# AxoCover
+.axoCover/*
+!.axoCover/settings.json
+
+# Coverlet
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# NCrunch
+NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web workbench (sass)
+.sass-cache/
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/*.ltx
+
+# Starbucks
+.svn/
+
+# BizTalk build output
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# OpenCover
+results/
+
+# Azure Functions
+func.host.json
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NVidia Nsight GPU debugger
+*.ptd
+
+# Local development
+appsettings.Development.json
+appsettings.*.json
+
+# Mod specific
+dll/
+*.dll
+*.pdb
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
